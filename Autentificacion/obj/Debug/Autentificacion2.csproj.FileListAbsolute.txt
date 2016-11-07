@@ -1,0 +1,6 @@
+C:\Users\Morgan\Desktop\C#\Autentificacion\Autentificacion\bin\Debug\Autentificacion.exe.config
+C:\Users\Morgan\Desktop\C#\Autentificacion\Autentificacion\bin\Debug\Autentificacion.exe
+C:\Users\Morgan\Desktop\C#\Autentificacion\Autentificacion\bin\Debug\Autentificacion.pdb
+C:\Users\Morgan\Desktop\C#\Autentificacion\Autentificacion\obj\Debug\Autentificacion2.csprojResolveAssemblyReference.cache
+C:\Users\Morgan\Desktop\C#\Autentificacion\Autentificacion\obj\Debug\Autentificacion.exe
+C:\Users\Morgan\Desktop\C#\Autentificacion\Autentificacion\obj\Debug\Autentificacion.pdb

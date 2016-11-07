@@ -1,0 +1,9 @@
+D:\VMWare04\Seguretat i criptografia\Autentificacion\Autentificacion\Autentificacion\bin\Debug\Autentificacion.exe.config
+D:\VMWare04\Seguretat i criptografia\Autentificacion\Autentificacion\Autentificacion\obj\Debug\Autentificacion.csprojResolveAssemblyReference.cache
+D:\VMWare04\Seguretat i criptografia\Autentificacion\Autentificacion\Autentificacion\bin\Debug\Autentificacion.exe
+D:\VMWare04\Seguretat i criptografia\Autentificacion\Autentificacion\Autentificacion\bin\Debug\Autentificacion.pdb
+D:\VMWare04\Seguretat i criptografia\Autentificacion\Autentificacion\Autentificacion\obj\Debug\Autentificacion.exe
+D:\VMWare04\Seguretat i criptografia\Autentificacion\Autentificacion\Autentificacion\obj\Debug\Autentificacion.pdb
+C:\Users\Morgan\Desktop\C#\Autentificacion\Autentificacion\bin\Debug\Autentificacion.exe.config
+C:\Users\Morgan\Desktop\C#\Autentificacion\Autentificacion\obj\Debug\Autentificacion.exe
+C:\Users\Morgan\Desktop\C#\Autentificacion\Autentificacion\obj\Debug\Autentificacion.pdb
