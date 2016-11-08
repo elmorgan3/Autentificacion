@@ -21,7 +21,7 @@ namespace Autentificacion
                 using (File.Create(archivoPasswords))
                 {
 
-                }               
+                }
             }
 
 
@@ -78,7 +78,9 @@ namespace Autentificacion
                 //Llamamos a la funcion calcular hash, con el password y el salt concatenado
                 string hashString = CalculaHash(password, salt);
 
-                //Aqui usamos la constante (Inicializada arriba con el nombre del archivo.) para escribir en el archivo.txt el nombre, el salt(convertida a String) y el hash del password y el salt
+
+                //Aqui usamos la constante (Inicializada arriba con el nombre del archivo.) para escribir 
+                //en el archivo.txt el nombre, el salt(convertida a String) y el hash del password
                 using (System.IO.StreamWriter file = new System.IO.StreamWriter(archivoPasswords, true))
                 {
                     file.WriteLine(nombre + ',' + Convert.ToBase64String(salt) + ',' + hashString);
@@ -157,7 +159,10 @@ namespace Autentificacion
                             //Separem nom i hash
                             user = linia.Split(',');
                             //Comprueba que el nombre del usuario exista
-                            if (user[0].Equals(nomUsuari)) return user[0] +',' + user[1] + ',' + user[2];
+                            if (user[0].Equals(nomUsuari))
+                            {
+                                return user[0] + ',' + user[1] + ',' + user[2];
+                            }
                         }
                     }
 
