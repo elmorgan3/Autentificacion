@@ -150,6 +150,7 @@ namespace Autentificacion
             {
                 using (StreamReader lector = new StreamReader(archivoPasswords))
                 {
+                    //Este while se usa para que vaya leiendo las lineas del archivo
                     while (lector.Peek() > -1)
                     {
                         string linia = lector.ReadLine();
